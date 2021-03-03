@@ -1,0 +1,8 @@
+#changing items in a dictionary
+car={
+"barnd":"ford",
+"model":"mustang",
+"year":1964
+}
+car["year"]=2018
+print(car)

@@ -1,0 +1,9 @@
+#how to access items
+car={
+"brand":"ford",
+"electric":"false",
+"year":"2015",
+"colors":["red","white","blue"]
+}
+x=car["colors"]
+print(x)

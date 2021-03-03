@@ -1,0 +1,9 @@
+#creating dictionary
+student={
+"fname":"james",
+"lname":"bond",
+"phone":"0722454545",
+"email":"jamesbond@gmail.com"
+}
+print(student)
+ 

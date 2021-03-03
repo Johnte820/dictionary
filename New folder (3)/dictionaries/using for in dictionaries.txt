@@ -1,0 +1,10 @@
+#looping in dictionaries
+car={
+"brand":"ford",
+"model":"mustang",
+"year":1964
+}
+for x in car:
+  print(x)
+for x in car.values():
+  print(x)
